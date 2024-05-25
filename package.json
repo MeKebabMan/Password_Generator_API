@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple Password Generator created with JS.",
   "main": "./src/Index.js",
+  "type": "module",
   "scripts": {
     "start": "node ."
   },
