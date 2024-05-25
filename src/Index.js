@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 5000;
 
 app.get("/", (req, res) => {
     res.json({
-        Message: "API!",
+        Message: "penguins are sad on the inside!",
     })
 })
 
