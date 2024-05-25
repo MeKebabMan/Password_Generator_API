@@ -1,0 +1,29 @@
+{
+  "name": "password_generator_api",
+  "version": "1.0.0",
+  "description": "A simple Password Generator created with JS.",
+  "main": "./src/Index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeKebabMan/Password_Generator_API.git"
+  },
+  "keywords": [
+    "JS",
+    "API",
+    "Password",
+    "Generator"
+  ],
+  "author": "Me Kebab Man",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeKebabMan/Password_Generator_API/issues"
+  },
+  "homepage": "https://github.com/MeKebabMan/Password_Generator_API#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
